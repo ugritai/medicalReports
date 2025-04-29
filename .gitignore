@@ -1,4 +1,5 @@
 datasets/
+analysis/
 mimic-iv-3.1/
 full_diagnostic_with_icd10.csv/
 mimic-iv-clinical-database-demo-2.2/
