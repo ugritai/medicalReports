@@ -4,6 +4,7 @@ mimic-iv-3.1/
 full_diagnostic_with_icd10.csv/
 mimic-iv-clinical-database-demo-2.2/
 mimic-iv-note-deidentified-free-text-clinical-notes-2.2/
+dataset_demo/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
