@@ -1,8 +1,13 @@
 # Trabajo Fin de Grado: Aplicación de Ayuda para la Generación de Informes Clínicos
+
 **Autor: Raúl Martínez Alonso**
+
 **Curso: 2024/2025**
+
 **Grado en Ingeniería Informática**
+
 **Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación**
+
 **Universidad de Granada**
 
 
@@ -15,12 +20,12 @@ La principal funcionalidad de la aplicación consiste en resumir textos clínico
 ## Estructura del proyecto
 El código está organizado en los siguientes notebooks:
 
-- **data_analysis.ipynb:** Código con las gráficas extraídas para el análisis exploratorio del conjunto de datos.
-- **metricas_modelos.ipynb:** Resultados obtenidos en las métricas aplicadas a las respuestas de los modelos de lenguaje.
-- **preprocessing_demo.ipynb:** Prueba inicial de preprocesamiento realizado con los datos de la demo.
-- **preprocessing_notes.ipynb:** Preprocesamiento del módulo note del dataset.
-- **preprocessing.ipynb:** Preprocesamiento general de todos los módulos del dataset MIMIC-IV.
-- **pruebas_modelos.ipynb:** Pruebas realizadas con los modelos de generación de texto.
+1. **preprocessing_demo.ipynb:** Prueba inicial de preprocesamiento realizado con los datos de la demo.
+2. **preprocessing.ipynb:** Preprocesamiento general de todos los módulos del dataset MIMIC-IV.
+3. **preprocessing_notes.ipynb:** Preprocesamiento del módulo note del dataset.
+4. **data_analysis.ipynb:** Código con las gráficas extraídas para el análisis exploratorio del conjunto de datos.
+5. **pruebas_modelos.ipynb:** Pruebas realizadas con los modelos de generación de texto.
+6. **metricas_modelos.ipynb:** Resultados obtenidos en las métricas aplicadas a las respuestas de los modelos de lenguaje.
 
 
 ## Resultados
